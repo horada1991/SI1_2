@@ -1,0 +1,6 @@
+c:\users\horváth ádám\documents\visual studio 2017\Projects\csAttrs\csAttrs\bin\Debug\csAttrs.exe.config
+c:\users\horváth ádám\documents\visual studio 2017\Projects\csAttrs\csAttrs\bin\Debug\csAttrs.exe
+c:\users\horváth ádám\documents\visual studio 2017\Projects\csAttrs\csAttrs\bin\Debug\csAttrs.pdb
+c:\users\horváth ádám\documents\visual studio 2017\Projects\csAttrs\csAttrs\obj\Debug\csAttrs.csprojResolveAssemblyReference.cache
+c:\users\horváth ádám\documents\visual studio 2017\Projects\csAttrs\csAttrs\obj\Debug\csAttrs.exe
+c:\users\horváth ádám\documents\visual studio 2017\Projects\csAttrs\csAttrs\obj\Debug\csAttrs.pdb
